@@ -1,5 +1,0 @@
-# minimum of 17 start numers
-
-# solv the sudoku and see if  it is solvable, if it is solvable count number of solutions.
-
-# Beginner – Intermediate – Advanced – Expert
